@@ -40,6 +40,7 @@
     "foreground-child": "^3.3.0",
     "fraction.js": "^4.3.7",
     "function-bind": "^1.1.2",
+    "gitignore": "^0.7.0",
     "glob": "^10.4.5",
     "glob-parent": "^6.0.2",
     "hasown": "^2.0.2",
@@ -109,7 +110,7 @@
     "yaml": "^2.5.0"
   },
   "scripts": {
-    "start":"vite",
+    "start": "vite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
